@@ -1,0 +1,64 @@
+[INFO] [2016-04-27 23:40:02][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@5b187658: startup date [Wed Apr 27 23:40:02 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-27 23:40:02][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2016-04-27 23:41:03][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@181f4b24: startup date [Wed Apr 27 23:41:03 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-27 23:41:03][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2016-04-30 18:15:25][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2fb212f0: startup date [Sat Apr 30 18:15:25 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:15:25][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2016-04-30 18:15:25][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:18:56][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@40454ca3: startup date [Sat Apr 30 18:18:56 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:18:56][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2016-04-30 18:18:56][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:20:49][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3c57e9bb: startup date [Sat Apr 30 18:20:49 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:20:49][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring-mybatis.xml]
+  [INFO] [2016-04-30 18:20:49][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:22:42][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3c57e9bb: startup date [Sat Apr 30 18:22:42 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:22:42][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from class path resource [spring/spring-mybatis.xml]
+  [INFO] [2016-04-30 18:22:42][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:25:01][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@3c57e9bb: startup date [Sat Apr 30 18:25:01 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:25:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:D:/Program Files/eclipse-workspace/FirstWorkspace/ssm/src/main/webapp/WEB-INF/spring/spring-mybatis.xml]
+  [INFO] [2016-04-30 18:25:01][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2016-04-30 18:25:01][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-04-30 18:25:01][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:25:01][org.springframework.context.support.ClassPathXmlApplicationContext]Closing org.springframework.context.support.ClassPathXmlApplicationContext@3c57e9bb: startup date [Sat Apr 30 18:25:01 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:29:59][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2fb212f0: startup date [Sat Apr 30 18:29:59 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:29:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:D:/Program Files/eclipse-workspace/FirstWorkspace/ssm/src/main/webapp/WEB-INF/spring/spring-mybatis.xml]
+  [INFO] [2016-04-30 18:29:59][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2016-04-30 18:29:59][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-04-30 18:29:59][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:29:59][org.springframework.context.support.ClassPathXmlApplicationContext]Closing org.springframework.context.support.ClassPathXmlApplicationContext@2fb212f0: startup date [Sat Apr 30 18:29:59 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:35:57][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@7d504e7b: startup date [Sat Apr 30 18:35:57 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:35:57][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:D:/Program Files/eclipse-workspace/FirstWorkspace/ssm/src/main/webapp/WEB-INF/spring/spring-mybatis.xml]
+  [INFO] [2016-04-30 18:35:57][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2016-04-30 18:35:57][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-04-30 18:35:57][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:35:57][com.wang.test.TestMybatis]最大连接数：20
+  [INFO] [2016-04-30 18:35:57][org.springframework.context.support.ClassPathXmlApplicationContext]Closing org.springframework.context.support.ClassPathXmlApplicationContext@7d504e7b: startup date [Sat Apr 30 18:35:57 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:36:54][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2350ad83: startup date [Sat Apr 30 18:36:54 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:36:54][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:D:/Program Files/eclipse-workspace/FirstWorkspace/ssm/src/main/webapp/WEB-INF/spring/spring-mybatis.xml]
+  [INFO] [2016-04-30 18:36:54][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2016-04-30 18:36:54][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-04-30 18:36:55][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:36:55][com.wang.test.TestMybatis]最大连接数：20
+  [INFO] [2016-04-30 18:36:55][org.springframework.context.support.ClassPathXmlApplicationContext]Closing org.springframework.context.support.ClassPathXmlApplicationContext@2350ad83: startup date [Sat Apr 30 18:36:54 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:37:59][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2350ad83: startup date [Sat Apr 30 18:37:59 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:37:59][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:D:/Program Files/eclipse-workspace/FirstWorkspace/ssm/src/main/webapp/WEB-INF/spring/spring-mybatis.xml]
+  [INFO] [2016-04-30 18:37:59][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2016-04-30 18:37:59][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-04-30 18:38:00][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:38:00][com.wang.test.TestMybatis]最大连接数：root
+  [INFO] [2016-04-30 18:38:00][org.springframework.context.support.ClassPathXmlApplicationContext]Closing org.springframework.context.support.ClassPathXmlApplicationContext@2350ad83: startup date [Sat Apr 30 18:37:59 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:58:09][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2350ad83: startup date [Sat Apr 30 18:58:09 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 18:58:09][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:D:/Program Files/eclipse-workspace/FirstWorkspace/ssm/src/main/webapp/WEB-INF/spring/spring-mybatis.xml]
+  [INFO] [2016-04-30 18:58:09][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2016-04-30 18:58:09][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-04-30 18:58:09][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 18:58:09][com.wang.test.TestMybatis]最大连接数：root
+  [INFO] [2016-04-30 18:58:09][org.springframework.context.support.ClassPathXmlApplicationContext]Closing org.springframework.context.support.ClassPathXmlApplicationContext@2350ad83: startup date [Sat Apr 30 18:58:09 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 21:10:01][org.springframework.context.support.ClassPathXmlApplicationContext]Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@466a3728: startup date [Sat Apr 30 21:10:01 CST 2016]; root of context hierarchy
+  [INFO] [2016-04-30 21:10:01][org.springframework.beans.factory.xml.XmlBeanDefinitionReader]Loading XML bean definitions from URL [file:D:/Program Files/eclipse-workspace/FirstWorkspace/ssm/src/main/webapp/WEB-INF/spring/spring-mybatis.xml]
+  [INFO] [2016-04-30 21:10:01][org.springframework.beans.factory.config.PropertyPlaceholderConfigurer]Loading properties file from class path resource [jdbc.properties]
+  [INFO] [2016-04-30 21:10:01][org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor]JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+  [INFO] [2016-04-30 21:10:02][com.wang.test.TestMybatis]测试类TestMybatis
+  [INFO] [2016-04-30 21:10:02][com.wang.test.TestMybatis]最大连接数：root
+  [INFO] [2016-04-30 21:10:02][org.springframework.context.support.ClassPathXmlApplicationContext]Closing org.springframework.context.support.ClassPathXmlApplicationContext@466a3728: startup date [Sat Apr 30 21:10:01 CST 2016]; root of context hierarchy
+  
